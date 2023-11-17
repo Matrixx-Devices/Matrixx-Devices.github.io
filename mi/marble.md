@@ -3,8 +3,13 @@ title: Poco F5 & Redmi Note 12 Turbo (marble)
 description: Brought to you by kssrao13882
 ---
 
-<b>Changelog 12 Nov 2023:</b>
+<b>Changelog 17 Nov 2023:</b>
+- Enjoy strong vibrations as it was before, RIP subtle vibrations
+- Uprev BCR to v1.55
+- Add Dirac Sound
+- Add support for Smart Pixels
 
+<b>Changelog 12 Nov 2023:</b>
 - Added support for Vanilla Build
 - Added cloned apps support for Gmail
 - Improved vibrations 
@@ -12,7 +17,6 @@ description: Brought to you by kssrao13882
 - Miscellaneous fixes and improvements
 
 <b>Changelog 08 Nov 2023:</b>
-
 - Added Leica Camera
 - Nuked the system apps AudioFX, Auxio and Matlog
 - Fixed the issue of vendor security patch level displaying as unknown
