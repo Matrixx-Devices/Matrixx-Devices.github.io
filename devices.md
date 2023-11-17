@@ -7,6 +7,8 @@ description: Our current official devices
 
 :iphone: [Poco F5, Redmi Note 12 Turbo (marble)](mi/marble.md)
 
+:iphone: [Redmi Note 5 Pro (whyred)](mi/whyred.md)
+
 ----
 
 <a href="#"><img src="assets/oneplus.png" height="50" /></a>
