@@ -23,4 +23,14 @@ description: Our current official devices
 
 ----
 
+<a href="#"><img src="assets/moto.png" height="50" /></a>
+
+:iphone: [Motorola G32 (devon)](motorola/devon.md)
+
+:iphone: [Motorola G42 (hawao)](motorola/hawao.md)
+
+:iphone: [Motorola G52 (rhode)](motorola/rhode.md)
+
+----
+
 [Back](./)
