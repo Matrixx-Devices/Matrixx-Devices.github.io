@@ -8,8 +8,7 @@ description: Brought to you by Jay
 **Before start flashing.....**
 - Always have backup of your internal storage
 - use evolutionX A14 recovery for flashing.
-- For vanilla variant, if u need gapps, [**Nikgapps Core is Recommended**]
-(https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)
+- For vanilla variant, if u need gapps, [**Nikgapps Core is Recommended**](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)
 
 ----
 **Clean flash:**

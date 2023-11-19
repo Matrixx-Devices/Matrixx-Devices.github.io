@@ -3,8 +3,6 @@ title: Redmi Note 5 Pro (whyred)
 description: Brought to you by Arijit Saha
 ---
 
-<u>Device Changelog:</u>
-
 <b>Changelog 19 Nov 2023:</b>
 - Synced with latest source
 - Fixed network delay completely
