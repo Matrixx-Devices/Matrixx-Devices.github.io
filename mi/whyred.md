@@ -5,6 +5,15 @@ description: Brought to you by Arijit Saha
 
 <u>Device Changelog:</u>
 
+<b>Changelog 19 Nov 2023:</b>
+- Synced with latest source
+- Fixed network delay completely
+- Fixed an issue with wired earphones
+- Fixed calling echo
+- Fixed some glitches
+- Switched to aosp dailer and message
+- Many more underhood changes
+
 <b>Changelog 17 Nov 2023:</b>
 - Initial official release
 
