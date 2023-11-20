@@ -33,4 +33,10 @@ description: Our current official devices
 
 ----
 
+<a href="#"><img src="assets/realme.png" height="50" /></a>
+
+:iphone: [Realme X50 Pro/Player 5G (bladerunner)](realme/bladerunner.md)
+
+----
+
 [Back](./)
