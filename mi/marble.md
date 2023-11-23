@@ -3,6 +3,11 @@ title: Poco F5 & Redmi Note 12 Turbo (marble)
 description: Brought to you by kssrao13882
 ---
 
+<b>Changelog 23 Nov 2023:</b>
+- Shipped & Updated ViperFX to latest version 5.5
+- Match vendor security patch with platform security patch
+- Adjust status bar paddings
+
 <b>Changelog 17 Nov 2023:</b>
 - Enjoy strong vibrations as it was before, RIP subtle vibrations
 - Uprev BCR to v1.55
