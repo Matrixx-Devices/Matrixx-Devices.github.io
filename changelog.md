@@ -3,6 +3,20 @@ title: ChangeLogs
 description: Changes based on release version
 ---
 
+<b>Matrixx v-10.0-BETA-3 Changelog:</b>
+- Fixed app opening lag
+- Added Statusbar padding customization
+- Added extended monet settings
+- Added QS refresh rate tile
+- Added screenshot tile
+- Added Sound search tile
+- Fixed scramble pin layout when unlocking
+- Added Team Matrixx info
+- Added new bootanimation
+- Unlock cloneable apps for all apps
+- Added back 4x4 app grid
+- Added Rosemary font
+
 <b>Matrixx v-10.0-BETA-2 Changelog:</b>
 - Brand new Settings & About Phone UI #RisingUI-2.0
 - Added Brand new Wallpaper
