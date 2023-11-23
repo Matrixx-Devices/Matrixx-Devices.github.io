@@ -37,6 +37,11 @@ description: Our current official devices
 
 :iphone: [Realme X50 Pro/Player 5G (bladerunner)](realme/bladerunner.md)
 
+
+<a href="#"><img src="assets/Samsung.png" height="50" /></a>
+
+:iphone: [Samsung A70 (a70q)](Samsung/a70q.md)
+
 ----
 
 [Back](./)
