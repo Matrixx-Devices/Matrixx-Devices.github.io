@@ -15,6 +15,16 @@ description: Brought to you by Arijit Saha
 <b>Changelog 17 Nov 2023:</b>
 - Initial official release
 
+<b>Changelog 23 Nov 2023:</b>
+- Synced with latest source
+- Switched to new kernel
+- Improved system sound
+- Improved system stability
+- Fixed app opening laggy animation
+- Improved battery backup
+- Adjust padding
+- Many more underhood changes
+
 ----
 Flashing instructions : [**Get From Here**](whyred_inst.md)
 
