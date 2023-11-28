@@ -3,6 +3,17 @@ title: ChangeLogs
 description: Changes based on release version
 ---
 
+<b>Matrixx v-10.0-BETA-4 Changelog:</b>
+- Added A11 style QS tile
+- Added Dynamic island
+- Added QS tiles styles
+- Added FaceUnlock
+- Added Dual tone QS background
+- Allow to show data usage in QS footer
+- Added toggle for 4g icon
+- Added UI styles
+- Other system wide improvements
+
 <b>Matrixx v-10.0-BETA-3 Changelog:</b>
 - Fixed app opening lag
 - Added Statusbar padding customization
