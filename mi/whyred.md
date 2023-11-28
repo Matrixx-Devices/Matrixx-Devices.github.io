@@ -3,6 +3,22 @@ title: Redmi Note 5 Pro (whyred)
 description: Brought to you by Arijit Saha
 ---
 
+<b>Changelog 28 Nov 2023:</b>
+- Synced with latest source
+- Switched to old kernel again
+- Fixed lock screen issue for some users
+- Updated some blobs
+
+<b>Changelog 23 Nov 2023:</b>
+- Synced with latest source
+- Switched to new kernel
+- Improved system sound
+- Fixed app opening laggy animation
+- Improved system stability
+- Improved battery backup
+- Adjust padding
+- Many more underhood changes
+
 <b>Changelog 19 Nov 2023:</b>
 - Synced with latest source
 - Fixed network delay completely
@@ -14,16 +30,6 @@ description: Brought to you by Arijit Saha
 
 <b>Changelog 17 Nov 2023:</b>
 - Initial official release
-
-<b>Changelog 23 Nov 2023:</b>
-- Synced with latest source
-- Switched to new kernel
-- Improved system sound
-- Improved system stability
-- Fixed app opening laggy animation
-- Improved battery backup
-- Adjust padding
-- Many more underhood changes
 
 ----
 Flashing instructions : [**Get From Here**](whyred_inst.md)
