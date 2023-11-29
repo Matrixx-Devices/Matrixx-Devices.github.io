@@ -5,6 +5,8 @@ description: Our current official devices
 
 <a href="#"><img src="assets/mi.png" height="50" /></a>
 
+:iphone: [POCO F3/K40/Mi 11X (alioth/aliothin)](mi/alioth.md)
+
 :iphone: [Poco F5, Redmi Note 12 Turbo (marble)](mi/marble.md)
 
 :iphone: [Redmi Note 5 Pro (whyred)](mi/whyred.md)
