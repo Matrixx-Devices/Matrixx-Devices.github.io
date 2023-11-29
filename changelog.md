@@ -12,6 +12,8 @@ description: Changes based on release version
 - Allow to show data usage in QS footer
 - Added toggle for 4g icon
 - Added UI styles
+- Added data disabled indicator toggle
+- Added Split notification shade in landscape mode
 - Other system wide improvements
 
 <b>Matrixx v-10.0-BETA-3 Changelog:</b>
