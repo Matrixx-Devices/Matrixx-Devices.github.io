@@ -3,6 +3,22 @@ title: ChangeLogs
 description: Changes based on release version
 ---
 
+<b>Matrixx v-10.0-BETA-5 Changelog:</b>
+- Added card layout to Launcher Settings
+- Added cycle modes in Location tiles
+- Added faceunlock notification
+- Another fix for Play integrity
+- Cleanup about phone page
+- Fixed misaligned Split notification shade
+- Fixed weather widget crash
+- Fixed QQS Brightness slider top padding on A11 QS style
+- Fixed QS Dual tone
+- Fixed Recents rounded corner in few shapes
+- Fixed system crash on Google keyboard update
+- Improved Island layout
+- Improved translations
+- Redesigned Darkmode prefrence
+
 <b>Matrixx v-10.0-BETA-4 Changelog:</b>
 - Added A11 style QS tile
 - Added Dynamic island
