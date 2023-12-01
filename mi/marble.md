@@ -3,6 +3,10 @@ title: Poco F5 & Redmi Note 12 Turbo (marble)
 description: Brought to you by kssrao13882
 ---
 
+<b>Changelog 01 Dec 2023:</b>
+- Hotfix build, synced with latest source
+- Updated pinner service in tune with pixel_fw merge in source
+
 <b>Changelog 29 Nov 2023:</b>
 - Added props to improve App closing/opening animations and touch response
 - Switched to Melt kernel and updated to latest 2.3.6_1
