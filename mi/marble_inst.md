@@ -27,7 +27,7 @@ description: Brought to you by KSSRAO
 **Dirty flash:**
 - Download the ROM
 - Boot into recovery
-- Wipe Dalvik/ArtCache and Data
+- Wipe Dalvik/ArtCache and Cache
 - Flash the ROM
 - Reboot To System
 
@@ -46,7 +46,7 @@ description: Brought to you by KSSRAO
 **Dirty flash:**
 - Download the ROM
 - Boot into recovery
-- Wipe Dalvik/ArtCache and Data
+- Wipe Dalvik/ArtCache and Cache
 - Flash the ROM and reboot to recovery
 - Flash the Nikgapps core and reboot to recovery again
 - Reboot To System
