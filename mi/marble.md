@@ -3,6 +3,11 @@ title: Poco F5 & Redmi Note 12 Turbo (marble)
 description: Brought to you by kssrao13882
 ---
 
+<b>Changelog 03 Dec 2023:</b>
+- Fixed issue of incoming call displaying weird numbers for dual sim users (Replaced Google Dialer with aosp dialer app) 
+- Replaced Google Messages with aosp messages app
+- Switched to aospa kernel from melt kernel
+
 <b>Changelog 01 Dec 2023:</b>
 - Hotfix build, synced with latest source
 - Updated pinner service in tune with pixel_fw merge in source
