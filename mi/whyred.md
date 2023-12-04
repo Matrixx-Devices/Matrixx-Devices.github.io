@@ -3,6 +3,23 @@ title: Redmi Note 5 Pro (whyred)
 description: Brought to you by Arijit Saha
 ---
 
+<b>Changelog 04 Dec 2023:</b>
+- Synced with latest source
+- whyred: audio: Add mixer paths for bt speaker
+- whyred: Remove bluetooth values from power-profile
+- whyred: Remove pro audio capability
+- whyred: Disable debug.sf.enable_hwc_vds
+- whyred: overlay: Pin SystemUIGoogle instead of regular SystemUI
+- whyred: props: Clean up useless log spams
+- whyred: Optimize everything on preopt
+- whyred: audio: Add unprocessed-stereo-mic path
+- whyred: audio: Add all routes for headphones-hifi-filter
+- Fixed an issue with headphone sound
+- Fixed speaker sound issue
+- Fixed ui jitters
+- Tune performance.xml
+- Many more underhood changes
+
 <b>Changelog 28 Nov 2023:</b>
 - Synced with latest source
 - Switched to old kernel again
