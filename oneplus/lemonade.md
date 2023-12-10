@@ -7,7 +7,7 @@ description: Brought to you by mukesh22584
 **Before start flashing.....**
 - Backup all your data to any external source. 
 - Update your device to OOS 13.1
-- ~~Firmware already included~~
+- Firmware already included
 - Gapps included so no need to flash/sideload GApps
 
 **Clean Flash:**
