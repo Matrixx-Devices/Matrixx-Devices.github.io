@@ -3,6 +3,15 @@ title: ChangeLogs
 description: Changes based on release version
 ---
 
+<b>Matrixx v-10.0 Changelog:</b>
+- Fixed payment apps FCs
+- Added Prefred network tile
+- Added now playing music ticker
+- Fixed face unlock icon tint
+- Fixed 4G icon not enabling in some cases
+- Attempt fixing Volume dialog position
+- Performance improvements
+
 <b>Matrixx v-10.0-BETA-5 Changelog:</b>
 - Added card layout to Launcher Settings
 - Added cycle modes in Location tiles
