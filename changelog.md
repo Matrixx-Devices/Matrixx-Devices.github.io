@@ -9,6 +9,7 @@ description: Changes based on release version
 - Added now playing music ticker
 - Fixed face unlock icon tint
 - Fixed 4G icon not enabling in some cases
+- Fixed screenshot edit button force close in Gapps build
 - Attempt fixing Volume dialog position
 - Performance improvements
 
