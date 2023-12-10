@@ -3,6 +3,11 @@ title: Poco F5 & Redmi Note 12 Turbo (marble)
 description: Brought to you by kssrao13882
 ---
 
+<b>Changelog 10 Dec 2023:</b>
+- Fixed an issue where default dialer was not being set in Gapps build
+- Shipped Google Messaging app instead of AOSP Messaging (Fixes message not received in some cases)
+- Uprev ViPER4Android FX to latest release 5.6.2
+
 <b>Changelog 03 Dec 2023:</b>
 - Fixed issue of incoming call displaying weird numbers for dual sim users (Replaced Google Dialer with aosp dialer app) 
 - Replaced Google Messages with aosp messages app
