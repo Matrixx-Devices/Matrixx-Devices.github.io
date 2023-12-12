@@ -1,7 +1,20 @@
 ---
 title: Realme X50 Pro/Player 5G (bladerunner)
-description: Brought to you by AAMIR_ALI
+description: Brought to you by AAMIR ALI
 ---
+
+<b>Changelog 12 Dec 2023:</b>
+- Sync with latest MATRIXX source
+- Fixed UDFPS enroll radius
+- Back to old Haptic
+- Fixed some denial
+- Fixed lockscreen charging info
+- Nuke OpExtra[Temp]
+- Improved system performance and stability
+
+
+---
+
 
 <b>Changelog 30 Nov 2023:</b>
 

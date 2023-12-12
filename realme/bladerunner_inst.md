@@ -1,6 +1,6 @@
 ---
 title:Realme X50 Pro/Player 5G (bladerunner) Flashing Instructions
-description: Brought to you by AAMIR_ALI
+description: Brought to you by AAMIR ALI
 ---
 
 <a href="#"><img align="center" img src="/assets/installation.png" /></a>
@@ -8,7 +8,7 @@ description: Brought to you by AAMIR_ALI
 **Before start flashing.....**
 
 - Always have backup of your internal storage
-- Use OrangeFox recovery meant for Android 14. Check the note [**#OrangeFox**](https://t.me/Alischatroom/1863)
+- Use OrangeFox recovery meant for Android 14. Check the note [**#TWRP**](https://t.me/Alischatroom/2624)
 - For Kernel SU, check note [**#kernel_su**](https://t.me/alischatroom)
 
 ----
