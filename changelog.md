@@ -3,6 +3,17 @@ title: ChangeLogs
 description: Changes based on release version
 ---
 
+<b>Matrixx v-10.1 Changelog:</b>
+- Bump up release version to v-10.1
+- Updated to December 2023 security patch
+- Added filled themed icon
+- Added hidden SSID toggle
+- Added more lock clocks
+- Added option to limit hotspot connected devices
+- Added OTA update support
+- Allow to skip confirmation in biometric auth dialog
+- Removed MatLog 
+
 <b>Matrixx v-10.0 Changelog:</b>
 - Fixed payment apps FCs
 - Added Prefred network tile
