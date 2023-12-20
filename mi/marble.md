@@ -3,6 +3,17 @@ title: Poco F5 & Redmi Note 12 Turbo (marble)
 description: Brought to you by kssrao13882
 ---
 
+<b>Changelog 20 Dec 2023:</b>
+- Added Dolby atoms, spatial audio 
+- Removed Dirac and retained ViperFX 
+- Added dolby vision
+- Added Battery Health
+- Added support for new Bluetooth Low Energy (BLE) devices
+- Updated Perf blobs from Nothing Phone 2
+- Switched to latest Silvercore Kernel 5.10.203 
+- Updated BCR to latest 1.57
+- Updated ViperFX driver to latest 0.6.1
+
 <b>Changelog 10 Dec 2023:</b>
 - Fixed an issue where default dialer was not being set in Gapps build
 - Shipped Google Messaging app instead of AOSP Messaging (Fixes message not received in some cases)
