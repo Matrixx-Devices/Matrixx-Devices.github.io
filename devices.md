@@ -23,11 +23,23 @@ description: Our current official devices
 
 ----
 
+<a href="#"><img src="assets/nothing.png" height="35" /></a>
+
+:iphone: [Nothing Phone (1) (spacewar)](nothing/spacewar.md)
+
+----
+
 <a href="#"><img src="assets/oneplus.png" height="50" /></a>
 
 :iphone: [OnePlus 7t (hotdogb)](oneplus/hotdogb.md)
  
 :iphone: [OnePlus 7t Pro (hotdog)](oneplus/hotdog.md)
+
+:iphone: [OnePlus 8 (instantnoodle)](oneplus/instantnoodle.md)
+
+:iphone: [OnePlus 8 Pro (instantnoodlep)](oneplus/instantnoodlep.md)
+
+:iphone: [OnePlus 8T (kebab)](oneplus/kebab.md)
 
 :iphone: [OnePlus 9 (lemonade)](oneplus/lemonade.md)
 
