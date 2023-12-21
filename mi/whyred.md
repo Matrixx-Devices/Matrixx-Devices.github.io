@@ -3,6 +3,14 @@ title: Redmi Note 5 Pro (whyred)
 description: Brought to you by Arijit Saha
 ---
 
+<b>Changelog 21 Dec 2023:</b>
+- Synced with latest source
+- Inbuilt ElixirReborn-v1.0 kernel
+- Added miui camera support
+- Improved system animation
+- Removed GcamGO
+- Many more underhood changes
+
 <b>Changelog 04 Dec 2023:</b>
 - Synced with latest source
 - whyred: audio: Add mixer paths for bt speaker
