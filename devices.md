@@ -11,6 +11,8 @@ description: Our current official devices
 
 :iphone: [Redmi Note 5 Pro (whyred)](Mi/whyred.md)
 
+:iphone: [POCO X4 PRO / Redmi Note 11 PRO PLUS 5G (veux/peux)](Mi/veux.md)
+
 ----
 
 <a href="#"><img src="assets/moto.png" height="50" /></a>
