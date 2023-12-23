@@ -3,6 +3,25 @@ title: ChangeLogs
 description: Changes based on release version
 ---
 
+<b>Matrixx v-10.11 Changelog:</b>
+- Added Google sans & EvolveSans font
+- Added QS header customisations
+- Added statusbar padding option
+- Added toggleable no widget settings homepage ui
+- Added Wi-Fi standard icon
+- Disabled auto pin confirm preference
+- Fixed IME space feature (Added new one)
+- Fixed lottie animation background
+- Fixed no. of hotseat icons for 4x5
+- Improved A11 QS tile style
+- Improved Device overview card padding in About phone
+- Improved Matrixx Settings design
+- Improved preference category ui padding
+- Improved refresh rate logic
+- Improved transition scaling in Launcher
+- Redesigned collapsing toolbar layout
+- Removed blur animation on app launch/exit
+
 <b>Matrixx v-10.1 Changelog:</b>
 - Bump up release version to v-10.1
 - Updated to December 2023 security patch
