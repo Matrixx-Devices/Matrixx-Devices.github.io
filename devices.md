@@ -3,6 +3,16 @@ title: Official Matrixx Devices
 description: Our current official devices
 ---
 
+<a href="#"><img src="assets/google.png" height="50" /></a>
+
+:iphone: [Google Pixel 6a (bluejay)](google/bluejay.md)
+
+:iphone: [Google Pixel 6 (oriole)](google/oriole.md)
+
+:iphone: [Google Pixel 6 Pro (raven)](google/raven.md)
+
+----
+
 <a href="#"><img src="assets/mi.png" height="50" /></a>
 
 :iphone: [Poco F3/K40/Mi 11X (alioth/aliothin)](mi/alioth.md)
