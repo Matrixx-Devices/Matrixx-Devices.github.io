@@ -3,6 +3,10 @@ title: Poco F5 & Redmi Note 12 Turbo (marble)
 description: Brought to you by kssrao13882
 ---
 
+<b>Changelog 24 Dec 2023:</b>
+- Updated Silvercore Kernel to latest 5.10.204 
+- Added some tweaks to improve smoothness of the rom
+
 <b>Changelog 20 Dec 2023:</b>
 - Added Dolby atoms, spatial audio 
 - Removed Dirac and retained ViperFX 
