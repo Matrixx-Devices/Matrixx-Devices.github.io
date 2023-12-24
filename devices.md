@@ -13,6 +13,8 @@ description: Our current official devices
 
 :iphone: [Redmi Note 5 Pro (whyred)](mi/whyred.md)
 
+:iphone: [Redmi Note 10 PRO  (sweet)](mi/sweet.md)
+
 :iphone: [Redmi 6 Pro (sakura)](mi/sakura.md)
 
 ----
