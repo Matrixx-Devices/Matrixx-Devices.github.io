@@ -63,6 +63,8 @@ description: Our current official devices
 
 :iphone: [OnePlus 9 Pro (lemonadep)](oneplus/lemonadep.md)
 
+:iphone: [OnePlus 9RT (martini)](oneplus/martini.md)
+
 ----
 
 <a href="#"><img src="assets/realme.png" height="50" /></a>
