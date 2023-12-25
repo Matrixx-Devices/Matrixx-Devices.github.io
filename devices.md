@@ -25,6 +25,8 @@ description: Our current official devices
 
 :iphone: [Redmi Note 10 PRO  (sweet)](mi/sweet.md)
 
+:iphone: [Redmi Note 11 (spes)](mi/spes.md)
+
 :iphone: [Redmi 6 Pro (sakura)](mi/sakura.md)
 
 ----
