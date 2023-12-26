@@ -5,6 +5,13 @@ description: Brought to you by Arijit Saha
 
 <b>Changelog 21 Dec 2023:</b>
 - Synced with latest source
+- Switched to new prebuilt kernel (ElixirReborn)
+- Updated animation scale
+- Fixed some known issues
+- Some underhood changes & fixes
+
+<b>Changelog 21 Dec 2023:</b>
+- Synced with latest source
 - Inbuilt ElixirReborn-v1.0 kernel
 - Added miui camera support
 - Improved system animation
