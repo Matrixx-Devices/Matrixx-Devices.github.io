@@ -3,6 +3,14 @@ title: ChangeLogs
 description: Changes based on release version
 ---
 
+<b>Matrixx v-10.1.2 Changelog:</b>
+- Added QS tiles Rows customization
+- Tiles styles is also vailable for A11QS
+- Added illustration stroke
+- Improved default brightness slider design
+- Added Do not validate option in CA certificate spinner for WiFi
+- Improved system performance
+
 <b>Matrixx v-10.11 Changelog:</b>
 - Added Google sans & EvolveSans font
 - Added QS header customisations
