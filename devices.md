@@ -71,6 +71,8 @@ description: Our current official devices
 
 :iphone: [Realme X50 Pro/Player 5G (bladerunner)](realme/bladerunner.md)
 
+:iphone: [Realme C3/N10A (RMX2020)](realme/RMX2020.md)
+
 ----
 
 <a href="#"><img src="assets/Samsung.png" height="50" /></a>
