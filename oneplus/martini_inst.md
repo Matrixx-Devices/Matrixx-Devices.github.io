@@ -9,12 +9,12 @@ description: Brought to you by Mrick343
 **First Time Install / Clean Flash from OOS/Other Custom ROM**
 
 1. Be on OOS13 and have an unlocked bootloader
-2. Download recovery & rom zip for your device from DevUploads
+2. Download recovery zip for your device from [HERE](https://devuploads.com/j2o14aqq0xi3)
 3. Reboot to bootloader
-4. fastboot flash dtbo dtbo.img
-fastboot flash vendor_boot vendor_boot.img
-fastboot flash boot boot.img
-fastboot reboot recovery
+4. *fastboot flash dtbo dtbo.img
+   fastboot flash vendor_boot vendor_boot.img
+   fastboot flash boot boot.img
+   fastboot reboot recovery*
 5. While in recovery navigate to Factory reset -> Format data/factory reset and confim to format the device.
 6. When done formatting, go back to the main menu and then navigate to Apply update -> Apply from ADB
 7. adb sideload rom.zip (replace "rom" with actual filename)
@@ -32,7 +32,14 @@ fastboot reboot recovery
 2. Install it.
 3. Reboot and Enjoy
 
+**Note:- If you get error 7 while sideloading:**
+
+1. Download [**super_empty.img**](https://devuploads.com/sitkz8rrp8jp)
+2. Reboot to fastboot
+3. Use command fastboot wipe-super super_empty.img
+4. Now you can sideload rom, Don’t forget to format data after sideloading.
+
 ----
-Download Link : [**Official Download Link for martini**](https://devuploads.com/qotsagjgecmh)
+ROM Download Link : [**Official Download Link for martini**](https://devuploads.com/6mg46obgl007)
 
 ----
