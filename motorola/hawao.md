@@ -3,6 +3,12 @@ title: Motorola G42 (hawao)
 description: Brought to you by Jay
 ---
 
+<b>Changelog 30 Dec 2023:</b> 
+- Fixed issue with sd card recognisation.
+- Fixed issue with gps.
+- Added support for KernelSU.
+
+
 <b>Changelog 18 Nov 2023:</b> 
 - Initial official release
 
