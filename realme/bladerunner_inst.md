@@ -9,7 +9,7 @@ description: Brought to you by AAMIR ALI
 
 - Always have backup of your internal storage
 - Use OrangeFox recovery meant for Android 14. Check the note [**#TWRP**](https://t.me/Alischatroom/2624)
-- For Kernel SU, check note [**#kernel_su**](https://t.me/alischatroom)
+- For Kernel SU, check note [**#kernel_su.zip**](https://t.me/alischatroom)
 
 ----
 
