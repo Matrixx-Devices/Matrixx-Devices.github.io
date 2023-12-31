@@ -3,6 +3,14 @@ title: Redmi 6 Pro (sakura)
 description: Brought to you by obito_svha
 ---
 
+<b>Changelog 31 Dec 2023:</b>
+- Synced with latest v10.1.2 source
+- Fixed Fingerprint for goodix 
+- Removed Viper4FX for now
+- Improved system animation
+- Fixed Dialer crashing
+- Many more underhood changes
+
 <b>Changelog 22 Dec 2023:</b>
 
 -Initial official release.
