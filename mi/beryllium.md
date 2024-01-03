@@ -21,6 +21,6 @@ description: Brought to you by JazzeeBlaze
 Flashing instructions : [**Get From Here**](beryllium_inst.md)
 
 ----
-Download Link : [**Official Download Link for sweet**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/beryllium/)
+Download Link : [**Official Download Link for beryllium**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/beryllium/)
 
 ----
