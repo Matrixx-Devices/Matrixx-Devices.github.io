@@ -3,6 +3,13 @@ title: Poco F5 & Redmi Note 12 Turbo (marble)
 description: Brought to you by kssrao13882
 ---
 
+<b>Changelog 11 Jan 2024:</b>
+- Fixed Auto Brightness issue
+- Disable frame rate override feature
+- Disable backpressure prop (helps fix lags and Janks )
+- Updated BCR to latest 1.59
+- Updated Silvercore Kernel to latest by Chaitanya
+
 <b>Changelog 27 Dec 2023:</b>
 - Updated Silvercore Kernel to latest 5.10.204 
 - Added some tweaks to improve smoothness of the rom
