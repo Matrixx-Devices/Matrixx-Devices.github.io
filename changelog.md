@@ -3,9 +3,31 @@ title: ChangeLogs
 description: Changes based on release version
 ---
 
+<b>Matrixx v-10.2.0 Changelog:</b>
+- Based on January 2024 Security patch
+- Release version bump up to 10.2.0
+- Added More clock background chip
+- Added Power off Alarm
+- Added adjustable QS tile label 
+- Added always show time in media player
+- Added Brightness text view
+- Added new wallpapers
+- Added system wide app lock
+- Added Volume panel styles
+- Added Xtended clear theme
+- Cleanup UIStyles
+- Fixed Battery usage
+- Fixed clone apps issues
+- Fixed Digital well being data not showing
+- Redesign GameSpace app icon
+- Redesign seekbar
+- Remove Seedvalt
+- Updated icons of AOSP Contacts. Dialer & Message
+- Others system wide fixes and optimizations
+
 <b>Matrixx v-10.1.2 Changelog:</b>
 - Added QS tiles Rows customization
-- Tiles styles is also vailable for A11QS
+- Tiles styles is also available for A11QS
 - Added illustration stroke
 - Improved default brightness slider design
 - Added Do not validate option in CA certificate spinner for WiFi
