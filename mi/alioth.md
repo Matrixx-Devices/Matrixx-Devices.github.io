@@ -3,8 +3,12 @@ title: POCO F3/K40/Mi 11X (alioth/aliothin)
 description: Brought to you by Roxor-007
 ---
 
-<b>Changelog 29 Nov 2023:</b>
--Initial release.
+<b>Changelog 11 Jan 2024:</b>
+- Upstreamed to latest n0kernel
+- Link Dolby Atmos dependencies against v33 libstagefright_foundation
+- Patch dolby lib64 libs
+- Introduce battery-friendly-pocketmode
+- Revert back from health AIDL services to 2.1
 
 <b>Changelog 10 Dec 2023:</b>
 - Introduce more Dolby Atmos effects.
@@ -21,12 +25,8 @@ description: Brought to you by Roxor-007
 - Switch to Neutron clang 18
 - Add missing uceservice hal entry 
 
-<b>Changelog 11 Jan 2024:</b>
-- Upstreamed to latest n0kernel
-- Link Dolby Atmos dependencies against v33 libstagefright_foundation
-- Patch dolby lib64 libs
-- Introduce battery-friendly-pocketmode
-- Revert back from health AIDL services to 2.1
+<b>Changelog 29 Nov 2023:</b>
+-Initial release.
 
 ----
 Flashing instructions : [**Get From Here**](alioth_inst.md)
