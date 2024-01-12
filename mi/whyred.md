@@ -3,6 +3,30 @@ title: Redmi Note 5 Pro (whyred)
 description: Brought to you by Arijit Saha
 ---
 
+<b>Changelog 12 Jan 2024:</b>
+- Synced with latest source
+- Switch to EROFS file system.
+- Drop useless thermal profile service
+- Reorder and cleanup device tree makefiles
+- Improve SF durations
+- whyred: rro_overlays: Import FrameworkResOverlayWhyred.
+- whyred: Build rro_overlays
+- Switched to ElixirReborn v4.0 kernel
+- Merged latest linux kernel tag
+- Beautify rounded corners
+- Adjust status bar height
+- Removed GcamGO
+- Enable SurfaceFlinger Cache by default
+- Enable aptX(HD) offload
+- Fix cam interface on vilte calls
+- kernel: Panic to recovery, not bootloader
+- Enable QPower and Deep sleep at the same time
+- Fixed screen flicker issue.
+- whyred: rootdir: Stop bootanimation service after boot.
+- Added 3.0 and 4.0 IMapper instance to manifest.
+- Disable vsync for CPU rendered Apps.
+- Many improvements and bug fixes.
+
 <b>Changelog 21 Dec 2023:</b>
 - Synced with latest source
 - Inbuilt ElixirReborn-v1.0 kernel
