@@ -3,6 +3,12 @@ title: Motorola G42 (hawao)
 description: Brought to you by Jay
 ---
 
+<b>Changelog 13 January 2024:</b> 
+- Updated blobs from T firmware.
+- removed kernelsu implementation.
+- shipped with T firmware.
+- upstreamed kernel to 4.19.303.
+
 <b>Changelog 30 Dec 2023:</b> 
 - Fixed issue with sd card recognisation.
 - Fixed issue with gps.
