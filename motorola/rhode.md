@@ -3,6 +3,12 @@ title: Motorola G52 (rhode)
 description: Brought to you by Jay
 ---
 
+<b>Changelog 13 January 2024:</b> 
+- Updated blobs from T firmware.
+- removed kernelsu implementation.
+- shipped with T firmware.
+- upstreamed kernel to 4.19.303.
+
 <b>Changelog 30 Dec 2023:</b>
 - Added kernelSU support.
 - Fixed sd card issue.
