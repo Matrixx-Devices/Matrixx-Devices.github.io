@@ -6,7 +6,6 @@ description: Brought to you by twinchin96
 
 **Before start flashing.....**
 - Backup all your data to any external source. 
-- Update your device to latest NOS 2.0.5
 - Gapps included so no need to flash/sideload GApps
 
 **Clean Flash:**
