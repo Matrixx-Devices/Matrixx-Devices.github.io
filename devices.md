@@ -77,10 +77,4 @@ description: Our current official devices
 
 ----
 
-<a href="#"><img src="assets/Samsung.png" height="50" /></a>
-
-:iphone: [Samsung A70 (a70q)](Samsung/a70q.md)
-
-----
-
 [Back](./)
