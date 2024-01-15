@@ -4,6 +4,10 @@ description: Brought to you by twinchin96
 ---
 
 <b>Changelog 14 Jan 2023:</b>
+HOTFIX BUILD:
+- Fix video recording and slow mo on Nothing Camera
+
+<b>Changelog 14 Jan 2023:</b>
 - Added Dolby support
 - Added wireless powershare
 - Updated NOS camera (portrait mode still broken)
