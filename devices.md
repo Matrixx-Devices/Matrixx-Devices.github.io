@@ -31,6 +31,8 @@ description: Our current official devices
 
 :iphone: [Redmi Note 11 (spes)](mi/spes.md)
 
+:iphone: [Redmi Note 7 PRO (violet)](mi/violet.md)
+
 ----
 
 <a href="#"><img src="assets/moto.png" height="50" /></a>
