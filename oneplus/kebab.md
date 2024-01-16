@@ -3,6 +3,10 @@ title: OnePlus 8T (kebab)
 description: Brought to you by twinchin96
 ---
 
+<b>Changelog 16 Jan 2024:</b>
+- HOTFIX
+- Fix slow charging
+
 <b>Changelog 13 Jan 2024:</b>
 - No Dolby or OOS Cam yet
 - Improve ram management
