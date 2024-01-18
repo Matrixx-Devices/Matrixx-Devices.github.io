@@ -41,7 +41,7 @@ description: Brought to you by IczYn
 - fastboot flash vbmeta_system vbmeta_system.img
 - fastboot reboot
 ----
-Download the rom from: [**Official Download Link for rhode**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/rhodep/)
+Download the rom from: [**Official Download Link for rhodep**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/rhodep/)
 
 ----
 
