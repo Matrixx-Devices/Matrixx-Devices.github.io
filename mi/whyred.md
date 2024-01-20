@@ -3,6 +3,20 @@ title: Redmi Note 5 Pro (whyred)
 description: Brought to you by Arijit Saha
 ---
 
+<b>Changelog 20 Jan 2024:</b>
+- Synced with latest source
+- Added all missing bluetooth blobs
+- Build libldacBT_bco
+- Removed hw_acc
+- Disabled backpressure
+- Fixed video lags in some apps
+- Added missing DRM dependencies
+- Added missing QSEECOMD blob dependencies
+- Import missing misoundfx blob
+- Re-order dirac blobs
+- Added missing com.dsi.ant blob
+- Many improvements and bug fixes
+
 <b>Changelog 12 Jan 2024:</b>
 - Synced with latest source
 - Switch to EROFS file system.
