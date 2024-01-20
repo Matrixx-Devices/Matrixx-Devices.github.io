@@ -3,6 +3,33 @@ title: ChangeLogs
 description: Changes based on release version
 ---
 
+<b>Matrixx v-10.2.1 Changelog:</b>
+- Added Ambient customization
+- Added face unlock methods
+- Added Smart 5g toggle
+- Added Force enable LTE_CA
+- Added Double tap to check phone
+- Added back Shishu UI styles
+- Design changes: Compact Settings homepage widgets
+- Design changes: Single accent colored Matrixx settings card
+- Design changes: Improved collapsing toolbar
+- Design changes: Added back preference category UI
+- Design changes: Minor changes in Matrixx settings layout
+- Disabled haptic if battery saver mode on
+- Fixed Android System Intelligence crash in some cases
+- Fixed Google translate sign in issue
+- Fixed QS brightness percent text color for qs themes
+- Fixed signal bar issue in Kai icon pack
+- Improved A11 qs tiles label
+- Improved A11 QS tiles space
+- Improved keyguard slice view
+- Improved Monet theming
+- Improved system smoothness
+- Optimized notification scaling/rendering
+- Properly aligned statusbar notification Icons
+- Removed marquee for QS label text
+- System side optimization changes
+
 <b>Matrixx v-10.2.0 Changelog:</b>
 - Based on January 2024 Security patch
 - Release version bump up to 10.2.0
