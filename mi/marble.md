@@ -3,6 +3,13 @@ title: Poco F5 & Redmi Note 12 Turbo (marble)
 description: Brought to you by kssrao13882
 ---
 
+<b>Changelog 21 Jan 2024:</b>
+- Fixed issue with night light
+- Fixed issue with extra dark
+- Improved Adaptive brightness (still brightness varying with screen content in certain scenarios is to be addressed)
+- Added back smooth display Toggle
+- Switched to Melt kernel and Upstreamed to latest version 2.5.3
+
 <b>Changelog 11 Jan 2024:</b>
 - Fixed Auto Brightness issue
 - Disable frame rate override feature
