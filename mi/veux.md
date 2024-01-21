@@ -3,6 +3,11 @@ title: POCO X4 PRO / Redmi Note 11 PRO PLUS 5G (veux/peux)
 description: Brought to you by AswinOP
 ---
 
+<b>Changelog 21 Jan 2024:</b>
+- Added ViperFx.
+- Fixed Proximity sensor issue during calls.
+- Added smart pixels support.
+
 <b>Changelog 11 Jan 2024:</b>
 - Added Charging controls.
 - Added GCAM by default.
