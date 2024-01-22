@@ -3,6 +3,10 @@ title: POCO F3/K40/Mi 11X (alioth/aliothin)
 description: Brought to you by Roxor-007
 ---
 
+<b>Changelog 22 Jan 2024:</b>
+- Fixed an issue where Dolby profile would reset on reboot
+- Added stereo widening option in Dolby
+
 <b>Changelog 11 Jan 2024:</b>
 - Upstreamed to latest n0kernel
 - Link Dolby Atmos dependencies against v33 libstagefright_foundation
