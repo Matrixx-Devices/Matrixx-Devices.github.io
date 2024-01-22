@@ -9,9 +9,9 @@ description: Brought to you by Aryan
 - Backup all your data to any external source
 - Always look for the build if its GAPPS or Vanilla varient
 - Only use Retrofit/Super_partition supported recovery
-- For Vanilla build flash only the recommended GAPPS zip given in notes right after flashed the rom
+- For Vanilla build flash only the recommended GAPPS zip given in notes and post
 - Flash gapps right after flashing the build , dont flash after booting to rom (ur google apps may crash)
-- If u flash gapps after booting into rom then only do it with ksu or magisk 
+- To get google search in home page , flash nik velvet  addon 
 
 **Clean Flash Legacy/Dynamic to Dynamic (Encrypted):**
 
@@ -20,6 +20,11 @@ description: Brought to you by Aryan
 - Flash Rom zip and Format data
 - Flash recommended gapps zip
 - Reboot System
+
+**Clean Flash Legacy/Dynamic to Dynamic (Decrypted):**
+
+- Follow above steps , just no need to format data
+- Remember to flash dfe v5 only for decryption
 
 **Rom Update/Dirty flash:**
 
