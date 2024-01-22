@@ -3,6 +3,11 @@ title: Redmi Note 7 PRO (violet)
 description: Brought to you by Aryan
 ---
 
+<b>Changelog 22 JAN 2024:</b>
+- Enabled Carrier Aggregation 
+- Added background blur
+- Minor changes in kernel
+
 <b>Changelog 16 JAN 2024:</b>
 - Initial Stable Release
 - Shipped with v4.14.336-Perf kernel
