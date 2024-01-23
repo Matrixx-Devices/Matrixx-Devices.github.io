@@ -3,6 +3,16 @@ title: OnePlus 9RT (martini)
 description: Brought to you by Mrick343
 ---
 
+<b>Changelog 23 Jan 2024:</b>
+- Updated blobs from OxygenOS 14.0.0.211(EX01)
+- OTA Fixed
+- Added Dynamite kernel (Thanks to @PJgowtham)
+- Added back 32bit Support
+- Fixed Google Dialer blank call recording
+- Added BCR for call recording
+- OOS14 Firmware included
+- Removed NR Mode switcher from Device Settings
+
 <b>Changelog 28 Dec 2023:</b>
 - Updated blobs from OxygenOS 14.0.0.210(EX01)
 - Updated camera from OxygenOS 14.0.0.80(EX01) (Thanks to @Sugakesshaa)

@@ -4,12 +4,12 @@ description: Brought to you by Mrick343
 ---
 <a href="#"><img align="center" img src="/assets/installation.png" /></a>
 
-**Please note that OOS13.1 EX01 firmware is included in these builds**
+**Please note that OOS14 EX01 firmware is included in these builds**
 
 **First Time Install / Clean Flash from OOS/Other Custom ROM**
 
-1. Be on OOS13 and have an unlocked bootloader
-2. Download recovery zip for your device from [HERE](https://devuploads.com/j2o14aqq0xi3)
+1. Be on OOS14 and have an unlocked bootloader
+2. Download recovery imgs for your device from [HERE](https://sourceforge.net/projects/projectmatrixx/files/Android-14/martini/recovery/)
 3. Reboot to bootloader
 4. *fastboot flash dtbo dtbo.img
    fastboot flash vendor_boot vendor_boot.img
@@ -34,12 +34,12 @@ description: Brought to you by Mrick343
 
 **Note:- If you get error 7 while sideloading:**
 
-1. Download [**super_empty.img**](https://devuploads.com/sitkz8rrp8jp)
+1. Download [**super_empty.img**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/martini/recovery/super_empty.img/download)
 2. Reboot to fastboot
 3. Use command fastboot wipe-super super_empty.img
 4. Now you can sideload rom, Don’t forget to format data after sideloading.
 
 ----
-ROM Download Link : [**Official Download Link for martini**](https://devuploads.com/6mg46obgl007)
+ROM Download Link : [**Official Download Link for martini**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/martini/Matrixx-v10.2.1-Official-martini-Gapps-20240123.zip/download)
 
 ----
