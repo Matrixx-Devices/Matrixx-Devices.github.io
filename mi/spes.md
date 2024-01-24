@@ -3,6 +3,13 @@ title: Redmi Note 11 (spes)
 description: Brought to you by sayann70
 ---
 
+<b>Changelog 24 Jan 2024:</b>
+- Adjusted lux stability time needed for updating auto-brightness values
+- Cleanup brightness lcd value
+- Used QCOM implementation for audio effects
+- Fixed low mic volume
+- Start bootanimation on post-fs
+  
 <b>Changelog 15 Jan 2024:</b>
 - Moved to common Xiaomi fingerprint HIDL
 - Fixed DT2W & AOD Issues
