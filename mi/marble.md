@@ -3,6 +3,12 @@ title: Poco F5 & Redmi Note 12 Turbo (marble)
 description: Brought to you by kssrao13882
 ---
 
+<b>Changelog 24 Jan 2024:</b>
+- Hotfix update for 10.2.1 release of 22.01.24
+- Fixed Fingerprint issues that was randomly occuring with few users
+- Dropped Smooth display for now
+- Switch back to Silvercore Kernel based on 5.10.208 (Though melt was not behind the FP issue)
+
 <b>Changelog 22 Jan 2024:</b>
 - Fixed issue with night light
 - Fixed issue with extra dark
