@@ -3,6 +3,19 @@ title: OnePlus 8 Pro (instantnoodlep)
 description: Brought to you by twinchin96
 ---
 
+<b>Changelog 23 Jan 2024:</b>
+- Added Dolby but still no OOS cam yet
+- Fixed playstore issue
+- Fixed lineage charging control
+- Fixed ram management
+- Added BCR call recorder prebuilt
+- Added back wireless powershare for OnePlus 8 Pro
+- Added toggle to enable and disable windows level blur
+- Lots of behind the scenes improvements
+
+Bugs: 
+- Google dialer call icon has some resolution issue so won't be near the hole punch but closer to the middle
+
 <b>Changelog 13 Jan 2024:</b>
 - No Dolby or OOS Cam yet
 - Improve ram management
