@@ -3,6 +3,17 @@ title: Nothing Phone (1) (spacewar)
 description: Brought to you by twinchin96
 ---
 
+<b>Changelog 24 Jan 2023:</b>
+
+- Improved UI
+- Added BCR call recorder
+- Improvements all around system
+- Removed blur for time being
+- Smoothness tweaks
+
+Bug:
+- Gdialer call icon is slightly centered instead of close to hole punch
+
 <b>Changelog 14 Jan 2023:</b>
 HOTFIX BUILD:
 - Fix video recording and slow mo on Nothing Camera
