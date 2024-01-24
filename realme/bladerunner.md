@@ -2,6 +2,15 @@
 title: Realme X50 Pro/Player 5G (bladerunner)
 description: Brought to you by AAMIR ALI
 ---
+<b>Changelog 24 Jan 2024:</b>
+- Synced with latest v10.2.1 source
+- Improve Ram Management
+- Improve Battery Backup
+- Many more underhood changes
+- Improved system performance and stability
+
+---
+
 <b>Changelog 31 Dec 2023:</b>
 - Synced with latest v10.1.2 source
 - Upstream Kernel v297
@@ -14,7 +23,6 @@ description: Brought to you by AAMIR ALI
 - Enable usb adb debugging by default
 - Many more underhood changes
 - Improved system performance and stability
-
 
 ---
 
