@@ -11,6 +11,8 @@ description: Our current official devices
 
 :iphone: [Google Pixel 6 Pro (raven)](google/raven.md)
 
+iphone:  [Google Pixel 7 Pro (cheetah)](google/cheetah.md)
+
 ----
 
 <a href="#"><img src="assets/mi.png" height="50" /></a>
