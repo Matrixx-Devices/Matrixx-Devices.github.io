@@ -4,6 +4,14 @@ description: Brought to you by AswinOP
 ---
 
 <b>Changelog 21 Jan 2024:</b>
+- Dropped support for ViPER4AndroidFX.
+- Enabled VoNR Calls support.
+- Updated blobs from veux V14.0.6.0. TKCINXM.
+- Switched to Rashoumon kernel.
+- Includes Moto Dolby.
+- Improved Auto Brightness.
+
+<b>Changelog 21 Jan 2024:</b>
 - Added ViperFx.
 - Fixed Proximity sensor issue during calls.
 - Added smart pixels support.
