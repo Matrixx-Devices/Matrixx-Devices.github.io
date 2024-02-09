@@ -3,6 +3,17 @@ title: Poco F5 & Redmi Note 12 Turbo (marble)
 description: Brought to you by kssrao13882
 ---
 
+<b>Changelog 09 Feb 2024:</b>
+- Fixed Green tint at low brightness
+- Added smooth display Toggle
+- Fixed some Janks
+- Tuned charging control parameters
+- Silence some spammy logging (reduces idle cpu usage)
+- Tune ambient display burn-in protection
+- Updated Silvercore Kernel to latest 5.10.209
+- Updated ViperFX app to latest 6.1
+- In order to fix crashing ott apps, widevine compromised to L3 for now
+
 <b>Changelog 24 Jan 2024:</b>
 - Hotfix update for 10.2.1 release of 22.01.24
 - Fixed Fingerprint issues that was randomly occuring with few users
