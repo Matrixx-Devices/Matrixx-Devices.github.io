@@ -12,7 +12,6 @@ description: Brought to you by KSSRAO
 - To retain TWRP recovery after rom flash, don't forget to tick the option "Automatically Reflash TWRP after flashing a rom" in recovery. Else TWRP will be replaced by recovery from rom
 - For Kernel SU, check note [**#ksu_a14**](https://t.me/KSSRAO_Romverse)
 - For vanilla variant, if u need gapps, [**Nikgapps is Recommended**](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)
-- If flashing Nikgapps Stock or Full, set the pixel launcher header to 0 in Nikgapps config file before flashing. Otherwise Wallpapers and Style will crash. 
 ----
 
 ## Gapps variant
