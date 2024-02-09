@@ -21,7 +21,6 @@ description: Changes based on release version
 - Added OOS vibration pattern
 - Added overview scrolling scale animation
 - Added redesigned Clear all action button
-- Added Storage encryption spoof
 - Added UDFPS animations
 - Added User selectable VoLTE & VoWiFi icons
 - Added vibrate toggle for volume panel
