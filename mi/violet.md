@@ -3,6 +3,12 @@ title: Redmi Note 7 PRO (violet)
 description: Brought to you by Aryan
 ---
 
+<b>Changelog 09 FEB 2024:</b>
+- Added Device light capabilities
+- Speed up Animations
+- Auto Brightness off by default
+- Some more underhood changes
+
 <b>Changelog 22 JAN 2024:</b>
 - Enabled Carrier Aggregation 
 - Added background blur
