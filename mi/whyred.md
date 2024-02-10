@@ -3,6 +3,9 @@ title: Redmi Note 5 Pro (whyred)
 description: Brought to you by Arijit Saha
 ---
 
+<b>Changelog 10 Feb 2024:</b>
+- Synced with latest source
+
 <b>Changelog 20 Jan 2024:</b>
 - Synced with latest source
 - Added all missing bluetooth blobs
