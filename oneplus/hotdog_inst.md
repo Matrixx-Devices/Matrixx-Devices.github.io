@@ -9,7 +9,6 @@ description: Brought to you by mukesh22584
 - If using custom rom, Make sure you're using OOS 12 base
 - If you're on OOS, update to OOS 12
 - Gapps included so no need to flash/sideload GApps
-- Firmware also included
 
 **Clean Flash:**
 1. Download recovery image
