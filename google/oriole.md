@@ -3,6 +3,10 @@ title: Google Pixel 6 (oriole)
 description: Brought to you by einargednochsson
 ---
 
+<b>Changelog 10 Feb 2024:</b>
+- Synced with latest source v10.3.0
+- adjusted udfps animation offset
+
 <b>Changelog 12 Jan 2024:</b>
 - Synced with latest source v10.2.0
 - Added GoogleCamera(removed Aperture)
