@@ -24,6 +24,7 @@ description: Our current official devices
 :iphone: [Poco F5, Redmi Note 12 Turbo (marble)](mi/marble.md)
 
 :iphone: [Poco X4 PRO / Redmi Note 11 PRO PLUS 5G (veux/peux)](mi/veux.md)
+:iphone: [POCO X5 Pro 5G / Redmi Note 12 Pro Speed (redwood)](mi/redwood.md)
 
 :iphone: [Redmi 6 Pro (sakura)](mi/sakura.md)
 
