@@ -2,6 +2,27 @@
 title: POCO F3/K40/Mi 11X (alioth/aliothin)
 description: Brought to you by Roxor-007
 ---
+<b>Changelog 11 Feb 2024:</b>
+- Upstreamed to latest 10.3.0 Matrixx source
+- Upstreamed to latest n0kernel sources
+- Import haptics props from Miui alioth global 13.0.8
+- Import all vibrator effects
+- Import hw impl for audiohalext (backend)
+- Update apn config from aospa
+- Matrixx updater fixup
+- Update default dax for dolby
+- Enable Dolby DS2 support
+- Increase audio HAL buffer size to 240
+- Add property to enable HWC for VDS
+- Switch to Jemalloc for libc
+- Enable building ssrec for Audio Externals
+- Enable support of HW Accelarated effect
+- Remove some camera daemon commands
+- Update Leica cam to Univerasal 5.0
+- Rework Thermal environment values
+- Fix thermal profile to init stage
+- Sync carrier config with component
+- Fixed statusbar padding
 
 <b>Changelog 22 Jan 2024:</b>
 - Fixed an issue where Dolby profile would reset on reboot
