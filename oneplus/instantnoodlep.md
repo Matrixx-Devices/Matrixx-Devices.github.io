@@ -3,6 +3,14 @@ title: OnePlus 8 Pro (instantnoodlep)
 description: Brought to you by twinchin96
 ---
 
+<b>Changelog 12 Feb 2024:</b>
+- Removed Dolby for the time being
+- Implemented Libperfmgt
+- Removed BCR call recorder
+- Included boot.img if you want ksu. (fastboot flash boot boot.img)
+- Reduced brightness values. (if brightness too low for you then increase from device extras)
+- Improved stabillity and smoothness
+
 <b>Changelog 23 Jan 2024:</b>
 - Added Dolby but still no OOS cam yet
 - Fixed playstore issue
