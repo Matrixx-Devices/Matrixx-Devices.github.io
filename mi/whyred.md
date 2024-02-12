@@ -3,6 +3,11 @@ title: Redmi Note 5 Pro (whyred)
 description: Brought to you by Arijit Saha
 ---
 
+<b>Changelog 12 Feb 2024:</b>
+- Synced with latest source
+- Added lineage health control
+- Many improvements and bug fixes
+
 <b>Changelog 10 Feb 2024:</b>
 - Synced with latest source
 
