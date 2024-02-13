@@ -1,9 +1,21 @@
 ---
-title: Nothing Phone (1) (spacewar)
+title: Nothing Phone (1) (Spacewar)
 description: Brought to you by twinchin96
 ---
 
-<b>Changelog 24 Jan 2023:</b>
+<b>Changelog 09 Feb 2024:</b>
+
+- Fix yellowish tint on google photos
+- Make OTA slightly faster
+- Improve touch response
+- Improve battery
+- Lots of power management stuff
+- Reduce CPU usage
+- Smoother scrolling
+- Fixed Nothing cam portrait mode
+- Bunch of behind the scenes improvements
+
+<b>Changelog 24 Jan 2024:</b>
 
 - Improved UI
 - Added BCR call recorder
