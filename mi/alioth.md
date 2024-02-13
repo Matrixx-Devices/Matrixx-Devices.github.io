@@ -2,6 +2,12 @@
 title: POCO F3/K40/Mi 11X (alioth/aliothin)
 description: Brought to you by Roxor-007
 ---
+
+<b>Changelog 13 Feb 2024:</b>
+- Fixed leica where photos wont get saved
+- Fixed leica where portrait mode wasn't working
+- Switch to Infinir kernel (Idk temporary or permanent lets see how it goes)
+
 <b>Changelog 11 Feb 2024:</b>
 - Upstreamed to latest 10.3.0 Matrixx source
 - Upstreamed to latest n0kernel sources
