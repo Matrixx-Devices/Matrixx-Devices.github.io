@@ -3,12 +3,16 @@ title: Pixel 7 (panther)
 description: Brought to you by Pyrtle93
 ---
 
-<b>Changelog 11 Feb 2024:</b>
+<b>Changelog 13 Feb 2024:</b>
 
 -Initial official release
+
 -Fixed data being disabled by default on setup
+
 -Neogen kernel based off los
+
 -Add VoLTE, VoWiFi & 5G for non-supported countries
+
 -Few other fixes/improvements
 
 ----

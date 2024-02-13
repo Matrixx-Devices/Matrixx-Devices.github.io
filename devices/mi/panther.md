@@ -19,6 +19,7 @@ description: Brought to you by Pyrtle93
 Flashing instructions : [**Get From Here**](panther_inst.md)
 
 ----
-Download Link : [**Official Download Link for cheetah**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/panther/)
+Download Link : [**Official Download Link for panther**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/panther/)
 
 ----
+

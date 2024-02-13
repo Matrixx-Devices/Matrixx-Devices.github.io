@@ -3,11 +3,17 @@ title: Pixel 7 Pro (cheetah)
 description: Brought to you by Pyrtle93
 ---
 
-<b>Changelog 02 Feb 2024:</b>
+<b>Changelog 13 Feb 2024:</b>
 
 -Initial official release
--All Pixel features are working
--Everything should be working
+
+-Fixed data being disabled by default on setup
+
+-Neogen kernel based off los
+
+-Add VoLTE, VoWiFi & 5G for non-supported countries
+
+-Few other fixes/improvements
 
 ----
 Flashing instructions : [**Get From Here**](cheetah_inst.md)
