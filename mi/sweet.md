@@ -3,9 +3,8 @@ title: Redmi Note 10 PRO  (sweet)
 description: Brought to you by JazzeeBlaze
 ---
 <b>Changelog 12 Feb 2023:</b>
--added leica camera 5.0
--shipped with 4.14.336-strix kernel
--erofs build
+- Added leica camera 5.0
+- Shipped with 4.14.336-strix kernel
 
 <b>Changelog 30 Dec 2023:</b>
 - Replaced Google Calculator with MiCalculator
