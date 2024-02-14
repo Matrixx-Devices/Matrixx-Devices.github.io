@@ -3,6 +3,16 @@ title: Redmi 6 Pro (sakura)
 description: Brought to you by obito_svha
 ---
 
+<b>Changelog 14 Feb 2024:</b>
+- Synced with latest v10.3.0 source
+- Added Bcr as prebuild
+- Added OTA support for Vanilla version
+- Fixed random reboot while hotspot turned on
+- Renamed perf as kernel line
+- cpufreq_schedutil: remove tracing
+- init/main.c: add sync point between each level
+- Misc changes and further more improvement hereandthere
+
 <b>Changelog 18 Jan 2024:</b>
 - Synced with latest v10.2.0 source
 - Fixed Viper4FX driver issue and readded
