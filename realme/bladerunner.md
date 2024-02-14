@@ -2,6 +2,24 @@
 title: Realme X50 Pro/Player 5G (bladerunner)
 description: Brought to you by AAMIR ALI
 ---
+<b>Changelog 14 fab 2024:</b>
+- Synced with latest v10.3.0 source
+- Upstream kernel to 4.19.304
+- Fix UI crash
+- Fix charging info overlapping with fod
+- Ram Management Fully Fixed
+- Enable superDart charging
+- Drop Add option to use fscompress for F2FS
+- Drop Enable casefolding support on userdata
+- Drop Set readahead_size_kb=128 to system and data
+- Drop Use FUSE passthrough mode by default
+- Drop Use metadata_csum for /metadata
+- Drop ViperX [temp]
+- Many more underhood changes
+- Improved system performance and stability
+
+---
+
 <b>Changelog 24 Jan 2024:</b>
 - Synced with latest v10.2.1 source
 - Improve Ram Management
