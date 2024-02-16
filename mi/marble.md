@@ -3,6 +3,12 @@ title: Poco F5 & Redmi Note 12 Turbo (marble)
 description: Brought to you by kssrao13882
 ---
 
+<b>Changelog 16 Feb 2024:</b>
+- Based on HyperOS firmware 
+- Added 90Hz support
+- Ships with Evenstar Kernel non-ksu variant
+- Dropped support for 32 bit apps for now
+
 <b>Changelog 09 Feb 2024:</b>
 - Fixed Green tint at low brightness
 - Added smooth display Toggle
