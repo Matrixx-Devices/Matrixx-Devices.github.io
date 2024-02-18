@@ -84,4 +84,24 @@ description: Our current official devices
 
 ----
 
+<a href="#"><img src="assets/samsung.png" height="50" /></a>
+
+:iphone: [Samsung S10E (beyond0lte)](samsung/beyond0lte.md)
+
+:iphone: [Samsung S10 (beyond1lte)](samsung/beyond1lte.md)
+
+:iphone: [Samsung S10+ (beyond2lte)](samsung/beyond2lte.md)
+
+:iphone: [Samsung S10 5G (beyondx)](samsung/beyondx.md)
+
+:iphone: [Samsung Note 10 (d1)](samsung/d1.md)
+
+:iphone: [Samsung Note 10+ (d2s)](samsung/d2s.md)
+
+:iphone: [Samsung Note 10+ 5G (d2x)](samsung/d2x.md)
+
+:iphone: [Samsung Galaxy f62 (f62)](samsung/f62.md)
+
+----
+
 [Back](./)
