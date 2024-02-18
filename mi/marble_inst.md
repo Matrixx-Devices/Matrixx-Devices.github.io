@@ -19,8 +19,7 @@ description: Brought to you by KSSRAO
 ## Gapps variant
 - Download the ROM
 - Boot into recovery (Any A14 twrp recovery version 8.0 or higher must be fine) 
-- In advanced wipe tick all things except otg and wipe and then format data 
-- Reboot recovery again
+- Wipe Dalvik/Art Cache, cache and data
 - Flash your region's latest HyperOS firmware from [**#here**](https://xiaomifirmwareupdater.com/firmware/marble/) China users use global firmware till china hyperos is out 
 - Flash rom
 - Tap on format data, type yes and reboot to system
@@ -28,11 +27,10 @@ description: Brought to you by KSSRAO
 # Vanilla Variant
 - Download the ROM and Gapps package from nikgapps
 - Boot into recovery (Any A14 twrp recovery version 8.0 or higher must be fine) 
-- In advanced wipe tick all things except otg and wipe and then format data 
-- Reboot recovery again
+- Wipe Dalvik/Art Cache, cache and data
 - Flash your region's latest HyperOS firmware from [**#here**](https://xiaomifirmwareupdater.com/firmware/marble/) China users use global firmware till china hyperos is out
 - Flash the ROM and reboot to recovery
-- Flash the Nikgapps and reboot to recovery again
+- Flash the Nikgapps
 - Tap on format data, type yes and reboot to system
 
 ## If already on HyperOS based custom rom
@@ -62,7 +60,7 @@ description: Brought to you by KSSRAO
 - Boot into recovery
 - Wipe Dalvik/Art Cache, cache and data
 - Flash the ROM and reboot to recovery
-- Flash the Nikgapps and reboot to recovery again
+- Flash the Nikgapps
 - Tap on format data, type yes and reboot to system
 
 **Dirty flash:**
@@ -70,7 +68,7 @@ description: Brought to you by KSSRAO
 - Boot into recovery
 - Wipe Dalvik/ArtCache and Cache
 - Flash the ROM and reboot to recovery
-- Flash the Nikgapps and reboot to recovery again
+- Flash the Nikgapps
 - Reboot To System
 
 ----
