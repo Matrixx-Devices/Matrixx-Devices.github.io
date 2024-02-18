@@ -10,7 +10,7 @@ description: Brought to you by FrEeRuNnEr4EvEr
 - Added support for nfc Mifare tags
 
 ----
-Flashing instructions : [**Get From Here**](https://github.com/Matrixx-Devices/Matrixx-Devices.github.io/blob/main/samsung/beyond0lte_inst.md)
+Flashing instructions : [**Get From Here**](https://github.com/Matrixx-Devices/Matrixx-Devices.github.io/blob/main/devices/samsung/beyond0lte_inst.md)
 
 ----
 Download Link : [**Official Download Link for beyond0lte**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/beyond0lte/)

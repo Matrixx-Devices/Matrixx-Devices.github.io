@@ -10,9 +10,9 @@ description: Brought to you by FrEeRuNnEr4EvEr
 - Added support for nfc Mifare tags
 
 ----
-Flashing instructions : [**Get From Here**](https://github.com/Matrixx-Devices/Matrixx-Devices.github.io/blob/main/samsung/d2s_inst.md)
+Flashing instructions : [**Get From Here**](https://github.com/Matrixx-Devices/Matrixx-Devices.github.io/blob/main/devices/samsung/d2s_inst.md)
 
 ----
-Download Link : [**Official Download Link for beyond0lte**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/d2s/)
+Download Link : [**Official Download Link for d2s**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/d2s/)
 
 ----
