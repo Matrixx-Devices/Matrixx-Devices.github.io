@@ -3,6 +3,13 @@ title: Redmi Note 11 (spes)
 description: Brought to you by sayann70
 ---
 
+<b>Changelog 18 Feb 2024:</b>
+- Disabled alpha compositing in WM
+- Address vendor.qti.data.factory Selinux denials
+- Register more libs to cached max freq
+- Remove obsoleted INI called gFixedRate
+- Speed up animations
+
 <b>Changelog 24 Jan 2024:</b>
 - Adjusted lux stability time needed for updating auto-brightness values
 - Cleanup brightness lcd value
