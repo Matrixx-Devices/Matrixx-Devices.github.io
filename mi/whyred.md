@@ -1,5 +1,5 @@
 ---
-title: Redmi Note 5 Pro (whyred)
+title: Redmi Note 5 Pro (whyred) EOL
 description: Brought to you by Arijit Saha
 ---
 
