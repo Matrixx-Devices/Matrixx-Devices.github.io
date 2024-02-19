@@ -3,6 +3,12 @@ title: Official Matrixx Devices
 description: Our current official devices
 ---
 
+<a href="#"><img src="assets/asus.png" height="50" /></a>
+
+:iphone: [Asus Zenfone Max M2 (X01AD)](asus/x01ad.md)
+
+---
+
 <a href="#"><img src="assets/google.png" height="50" /></a>
 
 :iphone: [Google Pixel 6a (bluejay)](google/bluejay.md)
