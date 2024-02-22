@@ -3,7 +3,7 @@ title: Official Matrixx Devices
 description: Our current official devices
 ---
 
-<a href="#"><img src="assets/asus.png" height="50" /></a>
+<a href="#"><img src="assets/asus.png" height="30" /></a>
 
 :iphone: [Asus Zenfone Max M2 (X01AD)](asus/x01ad.md)
 
