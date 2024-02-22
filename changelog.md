@@ -3,6 +3,22 @@ title: ChangeLogs
 description: Changes based on release version
 ---
 
+<b>Matrixx v-10.3.0 Changelog Feb 22:</b>
+- Added battery charge warning
+- Added custom charging symbol on statusbar
+- Added power menu animations
+- Added power/reboot menu transparency
+- Added refresh rate selector page
+- Added toast animations
+- Adedd recent action on Long swipe 
+- Fixed about phone theming
+- Fixed few battery style showing empty
+- Fixed open weather issue
+- Fixed PixelProps spoofing
+- Increased max fling velocity for Smooth scrolling
+- Make lockscreen timeout configurable
+- Set Met Norway default weather provider
+
 <b>Matrixx v-10.3.0 Changelog:</b>
 - Merged Feb 2024 security patch
 - Add show system app in Hide Developer option
