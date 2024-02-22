@@ -8,7 +8,7 @@ description: Brought to you by AAMIR ALI
 **Before start flashing.....**
 
 - Always have backup of your internal storage
-- Use OrangeFox/twrp recovery meant for Android 14. Check the note [**#TWRP/OFOX**](https://t.me/Alischatroom)
+- Use OrangeFox recovery meant for Android 14. Check the note [**#TWRP**](https://t.me/Alischatroom/2624)
 - For Kernel SU, check note [**#kernel_su.zip**](https://t.me/alischatroom)
 
 ----
