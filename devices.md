@@ -47,6 +47,8 @@ description: Our current official devices
 
 :iphone: [Redmi Note 7 PRO (violet)](mi/violet.md)
 
+:iphone: [POCO X3 PRO (vayu)](mi/vayu.md)
+
 ----
 
 <a href="#"><img src="assets/moto.png" height="50" /></a>
