@@ -113,6 +113,8 @@ description: Our current official devices
 
 :iphone: [Samsung Galaxy f62 (f62)](samsung/f62.md)
 
+:iphone: [Samsung Galaxy Tab A7 (gta4lwifi)](samsung/gta4lwifi.md)
+
 ----
 
 [Back](./)
