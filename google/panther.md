@@ -11,6 +11,14 @@ description: Brought to you by Pyrtle93
 - Add VoLTE, VoWiFi & 5G for non-supported countries
 - Few other fixes/improvements
 
+<b>Changelog 03 Mar 2024:</b>
+
+- Added PixelParts
+- Kernel improvements
+- CTS improvements
+- CPU spike significantly improved
+- Various improvements & bug fixes
+
 ----
 Flashing instructions : [**Get From Here**](panther_inst.md)
 

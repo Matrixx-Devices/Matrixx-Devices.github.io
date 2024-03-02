@@ -17,6 +17,8 @@ description: Our current official devices
 
 :iphone: [Google Pixel 6 Pro (raven)](google/raven.md)
 
+:iphone: [Google Pixel 7a (lynx)](google/lynx.md)
+
 :iphone: [Google Pixel 7 (panther)](google/panther.md)
 
 :iphone:  [Google Pixel 7 Pro (cheetah)](google/cheetah.md)

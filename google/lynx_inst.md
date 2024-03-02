@@ -1,5 +1,5 @@
 ---
-title: panther Flashing Instructions
+title: lynx Flashing Instructions
 description: Brought to you by Pyrtle93
 ---
 
@@ -50,7 +50,7 @@ Update via Updater
 
 
 ----
-Download the rom from: [**Official Download Link for panther**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/panther/)
+Download the rom from: [**Official Download Link for lynx**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/lynx/)
 
 ----
 
