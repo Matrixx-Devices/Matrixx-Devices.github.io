@@ -3,6 +3,11 @@ title: POCO X5 5G & Redmi Note 12 (sunstone/moonstone)
 description: Brought to you by Arijit Saha
 ---
 
+<b>Changelog 02 March 2024:</b>
+- Added Dirac aka mi sound enhencer
+- v4a & dolby present in rom
+- Many more changes
+
 <b>Changelog 27 Feb 2024:</b>
 - Synced with latest source
 - Disabled vsync for CPU rendered Apps
