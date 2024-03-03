@@ -6,8 +6,8 @@ description: Brought to you by mukesh22584
 
 **Before start flashing.....**
 - Backup all your data to any external source. 
-- Update your device to OOS 13.1
-- Update firmware to 13.1.0.593(EX01) using Firmware-Flasher [**HERE**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonadep/Recovery/)
+- Update your device to OOS 14 or update OOS14 firmware using Firmware flasher
+- Download firmware and update to 14.0.0.212(EX01) using Firmware-Flasher [**HERE**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonadep/Recovery/OnePlus9Pro-14.0.0.212%28EX-01%29Firmware-flasher.zip/download)
 - Gapps included so no need to flash/sideload GApps
 
 **Clean Flash:**

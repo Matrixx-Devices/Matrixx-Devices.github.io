@@ -3,6 +3,12 @@ title: OnePlus 9 (lemonade)
 description: Brought to you by mukesh22584
 ---
 
+<b>Changelog 03 March 2024:</b>
+- Added OnePlus camera
+- Updated blobs to OOS 14.0.0.212(EX01)
+- Updated KSU support
+- Updated Kernel
+
 <b>Changelog 09 Feb 2024:</b>
 - Updated blobs to OOS 13.1.0.593(EX01)
 - Added KSU support
