@@ -3,6 +3,15 @@ title: ChangeLogs
 description: Changes based on release version
 ---
 
+<b>Matrixx v-10.3.0 Changelog March 03:</b>
+- Added back AOSP lock/unlock sound
+- Added custom themed icon picker option
+- Fixed Action toast toggle not working
+- Fixed Dialer Sound and vibration settings
+- Fixed RAM calculations
+- Restrat SystemUI on resolution change
+- Other system optimizations
+
 <b>Matrixx v-10.3.0 Changelog Feb 22:</b>
 - Added battery charge warning
 - Added custom charging symbol on statusbar
