@@ -3,6 +3,11 @@ title: Motorola G32 (devon)
 description: Brought to you by Jay
 ---
 
+<b>Changelog 03 March 2024:</b> 
+- Rebased trees over latest los changes.
+- upstreamed kernel to 4.19.306.
+- fixed an issue with audio in calls.
+
 <b>Changelog 11 January 2024:</b> 
 - Updated blobs from T firmware.
 - removed kernelsu implementation.
