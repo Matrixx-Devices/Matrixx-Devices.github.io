@@ -3,9 +3,19 @@ title: POCO X5 5G & Redmi Note 12 (sunstone/moonstone)
 description: Brought to you by Arijit Saha
 ---
 
-<b>Changelog 02 March 2024:</b>
+<b>Changelog 04 March 2024:</b>
 - Added Dirac aka mi sound enhencer
 - v4a & dolby present in rom
+- Set low memory mode
+- Dropped pinnerservice
+- Set zram to 25% and swapiness to 20
+- Fixed screen recorder audio recording
+- Disabled Hardware Composer VDS debug
+- Disabled "mobile data always on"
+- Compact cached app heaps in the background
+- Update screenrecorder to 4.2 and set framerate to 120
+- Add malloc_svelte and camera override for newer features and perf improvements
+- Switched to 8Gb dalvik heap size config
 - Many more changes
 
 <b>Changelog 27 Feb 2024:</b>
