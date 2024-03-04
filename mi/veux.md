@@ -3,7 +3,16 @@ title: POCO X4 PRO / Redmi Note 11 PRO PLUS 5G (veux/peux)
 description: Brought to you by AswinOP
 ---
 
-<b>Changelog 21 Jan 2024:</b>
+<b>Changelog 04 Mar 2024:</b>
+- Enable AOSP Surfaceflinger.
+- Enable deep sleep for wifi.
+- Introduce Xiaomi Parts from Poco F5.
+- Fixed wifi not able to connect in one go on the client device.
+- Improve UI Smoothness.
+- Upstream Rashumon Kernel to 5.4.270
+- Many under the hood improvements.
+
+<b>Changelog 09 Feb 2024:</b>
 - Dropped support for ViPER4AndroidFX.
 - Enabled VoNR Calls support.
 - Updated blobs from veux V14.0.6.0. TKCINXM.
