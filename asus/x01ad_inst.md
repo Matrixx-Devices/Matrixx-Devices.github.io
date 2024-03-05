@@ -10,7 +10,7 @@ description: Brought to you by AssunZain
 
 **Clean Flash:**
 - Download ROM
-- Reboot to recovery (TWRP/PBRP)
+- Reboot to recovery (TWRP/PBRP) latest version support A14
 - Wipe cache, dalvik, system, data, vendor
 Flash Gapps (if you choose the Vanilla variant of the ROM)
 - Flash Dm-Verity
