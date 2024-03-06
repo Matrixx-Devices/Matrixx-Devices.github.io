@@ -3,6 +3,23 @@ title: Poco F5 & Redmi Note 12 Turbo (marble)
 description: Brought to you by kssrao13882
 ---
 
+<b>Changelog 06 March 2024:</b>
+- Fixed sms/otp not receiving issue
+- Fixed Thermals
+- Fixed ott apps crash and now Widevine is back to L1
+- Improved Auto Brightness
+- Set Brightness slider curve Implementation (Enjoy higher brightness at lower slider positions)
+- Upstreamed Evenstar Non ksu kernel to 5.10.211
+- Updated BCR to latest 1.61
+- Ships with Moto Dolby and Dirac instead of parts Dolby and ViperFX 
+- Added overlay for Turbo Power Charging
+- Enable Advanced SF Phase Offsets (Improved app open/close animation and reduces janks) 
+- Optimized Dex flags (faster boot)
+- Removed Force triple frame buffers (Reduces app lags & improves UI performance)
+- Nuked Per-app Refresh Rate for now (Buggy after update to Hyperos Blobs)
+- Moved Fuse Passthrough prop to product.prop from system.prop as per latest android change
+- Fixed Battery Drain due to statsd
+
 <b>Changelog 16 Feb 2024:</b>
 - Based on HyperOS firmware 
 - Added 90Hz support
