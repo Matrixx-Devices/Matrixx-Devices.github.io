@@ -3,6 +3,12 @@ title: OnePlus 9 Pro (lemonadep)
 description: Brought to you by mukesh22584
 ---
 
+<b>Changelog 06 March 2024:</b>
+- Fixed camera night mode crash
+- Fixed camera preview not opening
+- Fixed Power Off alarm
+- Fixed sound coming from speaker if bluetooth connected
+
 <b>Changelog 03 March 2024:</b>
 - Added OnePlus camera
 - Updated blobs to OOS 14.0.0.212(EX01)
