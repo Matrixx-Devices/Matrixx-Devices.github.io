@@ -3,6 +3,10 @@ title: Google Pixel 6a (bluejay)
 description: Brought to you by einargednochsson
 ---
 
+<b>Changelog 06 Mar 2024:</b>
+- Synced with latest source v10.3.0
+- switched gapps package(Please install everything from Playstore you like)
+
 <b>Changelog 25 Feb 2024:</b>
 - Synced with latest source v10.3.0
 - switched to prebuilt kernel android-14.0.0_r25
