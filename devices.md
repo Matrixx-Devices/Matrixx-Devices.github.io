@@ -51,6 +51,8 @@ description: Our current official devices
 
 :iphone: [POCO X3 PRO (vayu)](mi/vayu.md)
 
+:iphone: [XIAOMI 11T PRO (vili)](mi/vili.md)
+
 ----
 
 <a href="#"><img src="assets/moto.png" height="50" /></a>
