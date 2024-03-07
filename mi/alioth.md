@@ -2,6 +2,12 @@
 title: POCO F3/K40/Mi 11X (alioth/aliothin)
 description: Brought to you by Roxor-007
 ---
+<b>Changelog 7 Mar 2024<b>
+- Upstreamed to latest 10.3.0 Matrixx source
+- Upstreamed to latest n0kernel sources
+- Improved statusbar padding and height
+- Fallback to Leica 4.5
+- Add overlay to support System UI restart
 
 <b>Changelog 13 Feb 2024:</b>
 - Fixed leica where photos wont get saved
