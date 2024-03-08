@@ -3,14 +3,18 @@ title: Redmi Note 10 PRO  (sweet)
 description: Brought to you by JazzeeBlaze
 ---
 
-<b>Changelog 23 Feb 2023:</b>
+<b>Changelog 7 March 2024:</b> 
+- Revert miui galley, miui editor, vimusic
+- switch to strixx kernel and playground clang 
+
+<b>Changelog 23 Feb 2024:</b>
 - Fixed systemui crash
 - Miui Gallery + editor added
 - Refresh Rate tile added
 - Bcr added
 - Vimusic added
 
-<b>Changelog 12 Feb 2023:</b>
+<b>Changelog 12 Feb 2024:</b>
 - added leica camera 5.0
 - shipped with 4.14.336-strix kernel
 - erofs build
