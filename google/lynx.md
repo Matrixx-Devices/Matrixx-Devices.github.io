@@ -1,5 +1,5 @@
 ---
-title: Pixel 7 (lynx)
+title: Pixel 7a (lynx)
 description: Brought to you by Pyrtle93
 ---
 
