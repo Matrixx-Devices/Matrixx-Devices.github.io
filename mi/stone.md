@@ -4,6 +4,16 @@ description: Brought to you by Arijit Saha
 ---
 
 <b>Changelog 04 March 2024:</b>
+- Synced with latest source
+- Reduced app opening/closing animation lags and Jitters
+- Reduced qs lag when pulling it down
+- Enabled VoNR Calls support
+- updated Vendor Security Patch Level
+- Removed dirac
+- Fixed systemui crashing sometimes
+- Many more changes
+
+<b>Changelog 04 March 2024:</b>
 - Added Dirac aka mi sound enhencer
 - v4a & dolby present in rom
 - Set low memory mode
