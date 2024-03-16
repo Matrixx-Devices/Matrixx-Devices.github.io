@@ -97,6 +97,8 @@ description: Our current official devices
 
 :iphone: [Realme C3/N10A (RMX2020)](realme/RMX2020.md)
 
+:iphone: [Realme GT 5G (cupidr)](realme/cupidr.md)
+
 ----
 
 <a href="#"><img src="assets/samsung.png" height="50" /></a>
